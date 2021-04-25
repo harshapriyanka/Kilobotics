@@ -7,7 +7,4 @@ The robots are designed to make testing collective algorithms on hundreds or tho
 In this project, we have designed an algorithm where each Kilobot to form gradient with respect to reference Kilobotbot and 
 then bring the farthest Kilobotbot near the reference Kilobot by using edge following approach.
 
-Team: 
-Harsha Priyanka Guntaka
-Neelam Patwardhan
-Abhishek Rajopaadhye
+Team: Harsha Priyanka Guntaka, Neelam Patwardhan, Abhishek Rajopaadhye
